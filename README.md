@@ -6,8 +6,6 @@ Este é um projeto desenvolvido com **HTML**, **CSS** e **JavaScript**, com o ob
 
 O jogo consiste em clicar rapidamente no quadrado onde o personagem **Ralph** aparece. A cada acerto, sua pontuação aumenta. O desafio é acertar o máximo de vezes possível antes que o tempo acabe.
 
-![Imagem do Jogo](./Screenshot_2.png)
-
 ## 🧠 Regras
 
 - O Ralph aparece aleatoriamente em um dos 9 quadrados.
