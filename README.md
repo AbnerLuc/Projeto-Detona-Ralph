@@ -25,4 +25,6 @@ O jogo consiste em clicar rapidamente no quadrado onde o personagem **Ralph** ap
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
+2. Acesse a pasta do projeto e abra o arquivo index.html em um navegador moderno.   
+
 
